@@ -1,0 +1,32 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #f89bcb;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1, h2, h3 {
+    color: #1b1b1b;
+}
+p {
+    line-height: 1.6;
+}
+.member {
+    margin-bottom: 20px;
+}
+.member img {
+    width: 20%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.important{
+    color: #cf006b; 
+
+}   
